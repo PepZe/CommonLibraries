@@ -1,4 +1,4 @@
-﻿namespace CommonLibraries
+﻿namespace CommonLibraries.Dto
 {
     /// <summary>
     /// A model for API responses

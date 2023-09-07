@@ -4,6 +4,17 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>PepZe-commonLibraries</PackageId>
+    <Title>Common Libraries</Title>
+    <Authors>PepZe</Authors>
+    <Company>Pedro Azevedo</Company>
+    <Description>Model to handle requests</Description>
+	  <VersionPrefix>1.0.2</VersionPrefix>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Model\" />
+  </ItemGroup>
 
 </Project>
